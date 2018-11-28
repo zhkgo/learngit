@@ -1,5 +1,17 @@
-git is a version control system.
-Git is a free soft ware.
+Git is a distibuted version contol system.
+Git is a free software distibuted underthe GPL.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
